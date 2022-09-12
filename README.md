@@ -8,7 +8,7 @@ Este es un ejemplo de un crud usando redux y nextJs
 Clone el repositorio
 
 ```bash
-git clone https://github.com/jhonf441/crudBackend.git
+git clone https://github.com/jhonf441/crudFrontend.git
 ```
 
 ## uso
